@@ -14,6 +14,7 @@ max_tokens : 生成する回答の長さ
 
 ### Try the pretrainde model using google colab
 
+<a href="https://colab.research.google.com/github/kunishou/Japanese-Alpaca-LoRA/blob/main/generate_colb.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### LoRA on Hugging Face
 Japanese-Alpaca-LoRA 7b, 13B, 30B (65B Coming Soon!)

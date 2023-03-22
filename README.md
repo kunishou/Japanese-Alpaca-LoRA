@@ -12,5 +12,5 @@ https://huggingface.co/spaces/kunishou/Japanese-Alapaca-LoRA-7b-DEMO
 
 
 ### LoRA on Hugging Face
-Japanese-Alpaca-LoRA 7b, 13B, 30B  
+Japanese-Alpaca-LoRA 7b, 13B, 30B (65B Coming Soon!)
 https://huggingface.co/kunishou

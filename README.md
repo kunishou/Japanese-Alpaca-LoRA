@@ -8,13 +8,15 @@ Alpaca-LoRA is a {model_param}-parameter LLaMA model finetuned to follow instruc
 ### Japanese-Alpaca-LoRA-7b DEMOページ(期間限定)  
 https://huggingface.co/spaces/kunishou/Japanese-Alapaca-LoRA-7b-DEMO
 
+Instruct : 指示を入力
+Input : 付属情報を入力
 Temparature : 生成する回答の多様性度合い  
 Beams : 生成する回答の候補数  
-max_tokens : 生成する回答の長さ  
+Max_tokens : 生成する回答の長さ  
 
 入力例：  
-instruct :   
-input :   
+instruct : 次の文章を要約して下さい。  
+input : ディープラーニングまたは深層学習とは、対象の全体像から細部までの各々の粒度の概念を階層構造として関連させて学習する手法のことである。コーセラの共同創業者であるアンドリュー・ンによれば、「人工知能への第一歩」という認識は正しいのだという。
 
 ### Try the pretrainde model using google colab
 

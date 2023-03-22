@@ -5,7 +5,7 @@ Alpaca-LoRA is a {model_param}-parameter LLaMA model finetuned to follow instruc
 
 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateっサンプルコード
 
-### Japanese-Alpaca-LoRA-7b DEMOページ(期間限定)  
+### Japanese-Alpaca-LoRA-7b DEMOページ(期間限定 2023/3/23 12:00 ～ 2023/3/24 12:00)  
 https://huggingface.co/spaces/kunishou/Japanese-Alapaca-LoRA-7b-DEMO
 
 Instruct : 指示を入力

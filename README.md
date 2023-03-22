@@ -12,9 +12,9 @@ Temparature : 生成する回答の多様性度合い
 Beams : 生成する回答の候補数  
 max_tokens : 生成する回答の長さ  
 
-入力例：
-instruct : 
-input : 
+入力例：  
+instruct :   
+input :   
 
 ### Try the pretrainde model using google colab
 

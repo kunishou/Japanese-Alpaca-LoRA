@@ -1,11 +1,11 @@
 <img src="https://github.com/kunishou/Japanese-Alpaca-LoRA/blob/main/image/top.png" alt="alpaca">
 
 # 🦙🌲🤏🌸 Japanese-Alpaca-LoRA 🌸
-Alpaca-LoRA is a {model_param}-parameter LLaMA model finetuned to follow instructions. It is trained on the [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) dataset
-
 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateっサンプルコード
 
 ### Japanese-Alpaca-LoRA-7b DEMOページ(期間限定 2023/3/23 12:00 ～ 2023/3/24 12:00)  
+※ パワーの弱いGPUをレンタルしているためアクセスが集中すると動作が遅くなる可能性があります（以下のColabでも実行可能です）
+
 https://huggingface.co/spaces/kunishou/Japanese-Alapaca-LoRA-7b-DEMO
 
 Instruct : 指示を入力

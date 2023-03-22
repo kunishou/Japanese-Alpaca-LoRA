@@ -10,6 +10,10 @@ Alpaca-LoRA is a {model_param}-parameter LLaMA model finetuned to follow instruc
 ### Japanese-Alpaca-LoRA-7b DEMOページ(期間限定)  
 https://huggingface.co/spaces/kunishou/Japanese-Alapaca-LoRA-7b-DEMO
 
+Temparature : 生成する回答の多様性度合い
+Beams : 生成する回答の候補数
+max_tokens : 生成する回答の長さ
+
 ### Try the pretrainde model using google colab
 
 

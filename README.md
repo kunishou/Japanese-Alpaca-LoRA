@@ -1,4 +1,4 @@
-# 🦙🌲🤏Japanese-Alpaca-LoRA
+# 🦙🌲🤏🌸 Japanese-Alpaca-LoRA 🌸
 Alpaca-LoRA is a {model_param}-parameter LLaMA model finetuned to follow instructions. It is trained on the [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) dataset
 
 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし得られたLow-Rank AdapterのまとめリポジトリとGenerateっサンプルコード

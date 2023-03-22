@@ -1,4 +1,4 @@
-# Japanese-Alpaca-LoRA
+# 🦙🌲🤏Japanese-Alpaca-LoRA
 
 Hugging Face  
 https://huggingface.co/kunishou

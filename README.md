@@ -18,7 +18,7 @@ Max_tokens : 生成する回答の長さ
 instruct : 次の文章を要約して下さい。  
 input : ディープラーニングまたは深層学習とは、対象の全体像から細部までの各々の粒度の概念を階層構造として関連させて学習する手法のことである。コーセラの共同創業者であるアンドリュー・ンによれば、「人工知能への第一歩」という認識は正しいのだという。
 
-### Try the pretrainde model using google colab
+### Try the pretrained model using google colab
 Google Colabで実行したい場合は以下より（30Bなどの大きいモデルはProプラン以上でA100を使わないと動かないかも）
 
 <a href="https://colab.research.google.com/github/kunishou/Japanese-Alpaca-LoRA/blob/main/generate_colb.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>

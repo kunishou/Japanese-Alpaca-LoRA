@@ -3,7 +3,7 @@
 ### ※ 現在、規約関連について確認中のため、Hugging FaceにアップしたLoRAはPrivateに変更中
   
 # 🦙🌲🤏🌸 Japanese-Alpaca-LoRA 🌸
-日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateっサンプルコード
+日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateサンプルコード
 
 ### Japanese-Alpaca-LoRA-7b DEMOページ(期間限定 2023/x/xx 12:00 ～ 2023/x/xx 12:00)  
 ※ パワーの弱いGPUをレンタルしているためアクセスが集中すると動作が遅くなる可能性があります（以下のColabでも実行可能です）

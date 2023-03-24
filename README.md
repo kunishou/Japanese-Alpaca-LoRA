@@ -10,9 +10,9 @@
 
 https://huggingface.co/spaces/kunishou/Japanese-Alapaca-LoRA-7b-DEMO
 
-Instruct : 指示を入力
-Input : 付属情報を入力
-Temparature : 生成する回答の多様性度合い  
+Instruct : 指示を入力  
+Input : 付属情報を入力  
+Temparature : 生成する回答の多様性度合い    
 Beams : 生成する回答の候補数  
 Max_tokens : 生成する回答の長さ  
 

@@ -26,3 +26,9 @@ Google Colabで実行したい場合は以下より（30Bなどの大きいモ�
 ### LoRA on Hugging Face
 Japanese-Alpaca-LoRA 7b, 13B, 30B (65B Coming Soon!)  
 https://huggingface.co/kunishou
+
+### 参考
+Stanford Alpaca  
+https://github.com/tatsu-lab/stanford_alpaca  
+Alpaca-LoRA  
+https://github.com/tloen/alpaca-lora  

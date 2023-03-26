@@ -1,6 +1,4 @@
 <img src="https://github.com/kunishou/Japanese-Alpaca-LoRA/blob/main/image/top.png" alt="alpaca">
-
-### ※ 現在、規約関連について確認中のため、Hugging FaceにアップしたLoRAはPrivateに変更中
   
 # 🦙🌲🤏🌸 Japanese-Alpaca-LoRA 🌸
 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateサンプルコード

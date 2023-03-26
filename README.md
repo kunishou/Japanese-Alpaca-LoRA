@@ -6,7 +6,7 @@
 ### Japanese-Alpaca-LoRA-7b DEMOページ(期間限定公開)  
 ※ パワーの弱いGPUをレンタルしているためアクセスが集中すると動作が遅くなる可能性があります（以下のColabでも実行可能です）
 
-https://huggingface.co/spaces/kunishou/Japanese-Alapaca-LoRA-7b-DEMO
+https://huggingface.co/spaces/kunishou/Japanese-Alpaca-LoRA-7b-DEMO
 
 Instruct : 指示を入力  
 Input : 付属情報を入力  

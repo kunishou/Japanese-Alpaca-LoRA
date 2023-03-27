@@ -21,7 +21,7 @@ input : ディープラーニングまたは深層学習とは、対象の全体
 ### Try the pretrained model using google colab
 Google Colabで実行したい場合は以下より（30Bなどの大きいモデルはProプラン以上でA100を使わないと動かないかも）
 
-<a href="https://colab.research.google.com/github/kunishou/Japanese-Alpaca-LoRA/blob/main/generate_colb.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/kunishou/Japanese-Alpaca-LoRA/blob/main/generate_colab.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### LoRA on Hugging Face
 Japanese-Alpaca-LoRA 7b, 13B, 30B, 65B

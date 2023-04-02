@@ -4,9 +4,9 @@
 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateサンプルコード
 
 ### Japanese-Alpaca-LoRA-7b DEMOページ (期間限定公開)  
-※ パワーの弱いGPUをレンタルしているためアクセスが集中すると動作が遅くなる可能性があります（以下のColabでも実行可能です）
+※ 当初のデモ公開期間は終了しましたが [@_kaiinui](https://twitter.com/_kaiinui) 様のご厚意で貸していただいたマシンにホスティングしていただき提供を再開いたしました
 
-https://huggingface.co/spaces/kunishou/Japanese-Alpaca-LoRA-7b-DEMO
+https://jalpaca.infertron.com/
 
 Instruct : 指示を入力  
 Input : 付属情報を入力  
@@ -34,3 +34,6 @@ Stanford Alpaca
 https://github.com/tatsu-lab/stanford_alpaca  
 Alpaca-LoRA  
 https://github.com/tloen/alpaca-lora  
+
+### スポンサー
+[@_kaiinui](https://twitter.com/_kaiinui) 様

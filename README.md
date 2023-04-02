@@ -4,7 +4,7 @@
 日本語に翻訳したStanford Alpacaのデータセットを用いてLLaMAをファインチューニングし作成したLow-Rank AdapterのリンクとGenerateサンプルコード
 
 ### Japanese-Alpaca-LoRA-7b DEMOページ (期間限定公開)  
-※ 当初のデモ公開期間は終了しましたが [@_kaiinui](https://twitter.com/_kaiinui) 様のご厚意で貸していただいたマシンにホスティングしていただき提供を再開いたしました
+※ 当初のデモ公開期間は終了しましたが [@_kaiinui](https://twitter.com/_kaiinui) 様のマシンにホスティングしていただき提供を再開いたしました。ご厚意に感謝いたします。
 
 https://jalpaca.infertron.com/
 
